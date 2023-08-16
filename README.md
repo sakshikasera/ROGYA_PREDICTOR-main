@@ -76,9 +76,9 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Akansha Mishra
+Sakshi Kasera
 
 ## Contact
 
 
-- Email: akanshamishra617@gmail.com
+- Email: sakshikasera10@gmail.com
